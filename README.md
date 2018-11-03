@@ -9,6 +9,7 @@ This is the required server side files to [Chatty application](https://github.co
 
 
 ### Getting Started
-1. Clone both the Main Chatty application and this server repo
-2. Start the server first by typing `npm start` 
-3. Port is set default to 3001
+1. npm install
+2. Clone both the Main Chatty application and this server repo
+3. Start the server first by typing `npm start` 
+4. Port is set default to 3001
